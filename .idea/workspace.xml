@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757cf5ec-1ad8-4c2c-a5e9-25a520c9bfe6" name="Changes" comment="program for remove even number">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="757cf5ec-1ad8-4c2c-a5e9-25a520c9bfe6" name="Changes" comment="program for reverse an array" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686169462372</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="program for reverse an array">
+      <created>1686207505855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686207505855</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +81,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="commented one line" />
     <MESSAGE value="program for remove even number" />
-    <option name="LAST_COMMIT_MESSAGE" value="program for remove even number" />
+    <MESSAGE value="program for reverse an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="program for reverse an array" />
   </component>
 </project>
